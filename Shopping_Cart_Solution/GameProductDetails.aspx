@@ -1,0 +1,116 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/GameMaster.master" AutoEventWireup="true" CodeFile="GameProductDetails.aspx.cs" Inherits="GameProductDetails" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Product Details</title>
+        <link rel="stylesheet" type="text/css" href="assets/css/GameProductDetails.css" />
+        <style>
+            .Star {
+                background-image: url(images/Star.gif);
+                height: 17px;
+                width: 17px;
+            }
+
+            .WaitingStar {
+                background-image: url(images/WaitingStar.gif);
+                height: 17px;
+                width: 17px;
+            }
+
+            .FilledStar {
+                background-image: url(images/FilledStar.gif);
+                height: 17px;
+                width: 17px;
+            }
+        </style>
+
+    </head>
+    <body>
+        <div class="leftcontainer">
+            <div class="imgcontainer">
+                <asp:Image ID="imgGameProductDetails" runat="server" Style="width: 280px; height: 400px; padding: 12px 10px 1px" />
+            </div>
+        </div>
+
+        <div class="rightcontainer">
+            <div class="gametitle">
+                <asp:Label ID="lblGameTitle" runat="server" Text="Label"></asp:Label>
+
+            </div>
+
+            <div class="gamepublisher">
+                by
+                <asp:Label ID="lblGamePublisher" runat="server" Text="Label" Style="color: #48C9B0"></asp:Label>
+            </div>
+
+            <div style="height: 10px; font-size: 13px; padding-top: 6px; margin-bottom: 8px; margin-top: 5px; font-weight: bold">
+                <asp:Label ID="lblGameGenre" runat="server" Text="Label"></asp:Label>
+            </div>
+
+            <div class="gameprice">
+                <asp:Label ID="lblGamePrice" runat="server" Text="Label"></asp:Label>
+            </div>
+
+            <div class="gametype">
+                <a class="active">Standard<br />
+                    <asp:Label ID="lblGamePrice2" runat="server" Text="Label"></asp:Label></a>
+            </div>
+
+            <div class="gameshipping">
+                ✔&nbsp Spend a Minimum of $30 to get Free Shipping
+            </div>
+
+            <div class="gamepurchase">
+                <asp:Button ID="btnGameAddCart" runat="server" Text="ADD TO CART" class="cartbutton" />
+            </div>
+
+            <div class="footnote">
+                Choose Expedited Shipping at checkout for guaranteed delivery within 
+            </div>
+
+            <div class="footnote" style="font-weight: bold">
+                &nbsp 2-3 days
+            </div>
+        </div>
+
+        <div class="gamedescription">
+            <p style="text-align: center; font-family: 'Noticia Text', serif; font-weight: bold; font-size: 25px;">Overview</p>
+            <asp:Label ID="lblGameDescription" runat="server" Text="Label"></asp:Label>
+        </div>
+
+        <div class="gametitle" style="font-family: 'Playfair Display', serif; text-align: center; margin-bottom: 10px; font-size: 25px;">
+            <asp:Label ID="Label2" runat="server" Text="Customer Review"></asp:Label>
+        </div>
+
+        <div class="leftratings">
+            <asp:Label ID="Label1" Style="font-family: 'Noticia Text', serif; font-size: 16px" runat="server" Text="Average Rating"></asp:Label><br />
+            <asp:Label ID="lblavgrating" runat="server" Text="Label" Font-Size="37px"></asp:Label>
+            <asp:ToolkitScriptManager ID="ToolkitScriptManager1" runat="server"></asp:ToolkitScriptManager>
+            <asp:Rating 
+                ID="Rating1" 
+                runat="server"
+                StarCssClass="Star"
+                WaitingStarCssClass="WaitingStar"
+                EmptyStarCssClass="Star"
+                FilledStarCssClass="FilledStar">
+            </asp:Rating><br />
+
+             <asp:Label ID="lblresult" runat="server" Text="" Font-Size="Smaller"></asp:Label>
+        </div>
+
+        <div class="rightratings">
+            <asp:TextBox runat="server" ID="txtreview" TextMode="MultiLine" Height="100px"></asp:TextBox>
+            <asp:Button runat="server" class="cartbutton" Style="float: right;" Text="Submit Review" ID="btnSubmit" Height="30px" Width="100px" OnClick="btnSubmit_Click" />
+        </div>
+
+
+    </body>
+    </html>
+</asp:Content>
+
+
+

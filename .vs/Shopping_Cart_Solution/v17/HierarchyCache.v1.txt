@@ -1,0 +1,384 @@
+﻿++Solution 'Shopping_Cart_Solution' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Shopping_Cart_Solution.sln
+++Shopping_Cart_Solution
+i:{00000000-0000-0000-0000-000000000000}:Shopping_Cart_Solution
+++App_Code
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\app_code\
+++App_Data
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\app_data\
+++assets
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\assets\
+++css
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\assets\css\
+++js
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\assets\js\
+++Bin
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\
+++images
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\
+++1.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\1.jpg
+++2.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\2.jpg
+++22.png
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\22.png
+++3.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\3.jpg
+++33.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\33.jpg
+++4.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\4.jpg
+++44.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\44.jpg
+++5.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\5.jpg
+++6.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\6.jpg
+++7.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\7.jpg
+++8.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\8.jpg
+++cabin.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\cabin.jpg
+++Capture.PNG
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\capture.png
+++Capture1.PNG
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\capture1.png
+++capture2.PNG
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\capture2.png
+++diary.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\diary.jpg
+++dog.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\dog.jpg
+++dontletgo.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\dontletgo.jpg
+++f.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\f.jpg
+++fb.png
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\fb.png
+++fbbutton.png
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\fbbutton.png
+++FilledStar.gif
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\filledstar.gif
+++fires.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\fires.jpg
+++five.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\five.jpg
+++freddy.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\freddy.jpg
+++g.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\g.jpg
+++goodomens.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\goodomens.jpg
+++google.png
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\google.png
+++googlebtn.png
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\googlebtn.png
+++got.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\got.jpg
+++h.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\h.jpg
+++handmaid.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\handmaid.jpg
+++harry.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\harry.jpg
+++i.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\i.jpg
+++ig.png
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\ig.png
+++j.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\j.jpg
+++just.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\just.jpg
+++k.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\k.jpg
+++l.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\l.jpg
+++m.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\m.jpg
+++masterpass.png
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\masterpass.png
+++n.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\n.jpg
+++o.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\o.jpg
+++paypal.png
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\paypal.png
+++percy.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\percy.jpg
+++raven.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\raven.jpg
+++reckoning.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\reckoning.jpg
+++refugee.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\refugee.jpg
+++search.png
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\search.png
+++Star.gif
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\star.gif
+++sun.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\sun.jpg
+++tattooist.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\tattooist.jpg
+++toy123.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\toy123.jpg
+++toy2.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\toy2.jpg
+++toy3.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\toy3.jpg
+++turtle.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\turtle.jpg
+++twitter.png
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\twitter.png
+++unsolved.jpg
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\unsolved.jpg
+++WaitingStar.gif
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\images\waitingstar.gif
+++Admin-BestSeller.aspx
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\admin-bestseller.aspx
+++Admin-BestSeller.aspx.cs
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\admin-bestseller.aspx.cs
+++Admin-index.aspx
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\admin-index.aspx
+++Admin-Users.aspx
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\admin-users.aspx
+++AdminMaster.master
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\adminmaster.master
+++Afterlogin.master
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\afterlogin.master
+++BestSeller.aspx
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bestseller.aspx
+++index.aspx
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\index.aspx
+++MasterPage.master
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\masterpage.master
+++packages.config
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\packages.config
+++ProductDetails.aspx
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\productdetails.aspx
+++ProductDetails.aspx.cs
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\productdetails.aspx.cs
+++Search.aspx
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\search.aspx
+++Web.config
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\web.config
+++BasePage.cs
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\app_code\basepage.cs
+++Hash.cs
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\app_code\hash.cs
+++Product.cs
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\app_code\product.cs
+++SunnyCS.mdf
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\app_data\sunnycs.mdf
+++BestSeller.css
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\assets\css\bestseller.css
+++index.css
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\assets\css\index.css
+++MasterPage.css
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\assets\css\masterpage.css
+++ProductDetails.css
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\assets\css\productdetails.css
+++Search.css
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\assets\css\search.css
+++StyleSheet.css
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\assets\css\stylesheet.css
+++materialize.js
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\assets\js\materialize.js
+++roslyn
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\microsoft.codedom.providers.dotnetcompilerplatform.dll
+++Admin-index.aspx.cs
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\admin-index.aspx.cs
+++Admin-Users.aspx.cs
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\admin-users.aspx.cs
+++AdminMaster.master.cs
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\adminmaster.master.cs
+++Afterlogin.master.cs
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\afterlogin.master.cs
+++BestSeller.aspx.cs
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bestseller.aspx.cs
+++index.aspx.cs
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\index.aspx.cs
+++MasterPage.master.cs
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\masterpage.master.cs
+++Search.aspx.cs
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\search.aspx.cs
+++Web.Debug.config
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\web.debug.config
+++SunnyCS_log.ldf
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\app_data\sunnycs_log.ldf
+++csc.exe
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\csc.exe
+++csc.exe.config
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\csc.exe.config
+++csc.exe.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\csc.exe.refresh
+++csc.rsp
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\csc.rsp
+++csi.exe
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\csi.exe
+++csi.exe.config
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\csi.exe.config
+++csi.exe.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\csi.exe.refresh
+++csi.rsp
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\csi.rsp
+++Microsoft.Build.Tasks.CodeAnalysis.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.build.tasks.codeanalysis.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.codeanalysis.csharp.scripting.dll
+++Microsoft.CodeAnalysis.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Scripting.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.codeanalysis.scripting.dll
+++Microsoft.CodeAnalysis.VisualBasic.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.codeanalysis.visualbasic.dll
+++Microsoft.CSharp.Core.targets
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.DiaSymReader.Native.amd64.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.diasymreader.native.amd64.dll
+++Microsoft.DiaSymReader.Native.x86.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.diasymreader.native.x86.dll
+++Microsoft.Managed.Core.targets
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.VisualBasic.Core.targets
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.visualbasic.core.targets
+++System.AppContext.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.appcontext.dll
+++System.Collections.Immutable.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.collections.immutable.dll
+++System.Console.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.console.dll
+++System.Diagnostics.FileVersionInfo.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.diagnostics.fileversioninfo.dll
+++System.Diagnostics.StackTrace.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.diagnostics.stacktrace.dll
+++System.IO.Compression.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.io.compression.dll
+++System.IO.FileSystem.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.io.filesystem.dll
+++System.IO.FileSystem.Primitives.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.io.filesystem.primitives.dll
+++System.IO.Pipes.AccessControl.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.io.pipes.accesscontrol.dll
+++System.IO.Pipes.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.io.pipes.dll
+++System.Reflection.Metadata.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.reflection.metadata.dll
+++System.Security.AccessControl.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.security.accesscontrol.dll
+++System.Security.Claims.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.security.claims.dll
+++System.Security.Cryptography.Algorithms.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.security.cryptography.algorithms.dll
+++System.Security.Cryptography.Encoding.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.security.cryptography.encoding.dll
+++System.Security.Cryptography.Primitives.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.security.cryptography.primitives.dll
+++System.Security.Cryptography.X509Certificates.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.security.cryptography.x509certificates.dll
+++System.Security.Principal.Windows.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.security.principal.windows.dll
+++System.Text.Encoding.CodePages.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.text.encoding.codepages.dll
+++System.ValueTuple.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.valuetuple.dll
+++System.Xml.ReaderWriter.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.xml.readerwriter.dll
+++System.Xml.XmlDocument.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.xml.xmldocument.dll
+++System.Xml.XPath.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.xml.xpath.dll
+++System.Xml.XPath.XDocument.dll
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.xml.xpath.xdocument.dll
+++vbc.exe
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\vbc.exe
+++vbc.exe.config
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\vbc.exe.config
+++vbc.exe.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\vbc.exe.refresh
+++vbc.rsp
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\vbc.rsp
+++VBCSCompiler.exe
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\vbcscompiler.exe
+++VBCSCompiler.exe.config
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\vbcscompiler.exe.config
+++VBCSCompiler.exe.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\vbcscompiler.exe.refresh
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\microsoft.codedom.providers.dotnetcompilerplatform.dll.refresh
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\microsoft.codedom.providers.dotnetcompilerplatform.xml
+++Microsoft.Build.Tasks.CodeAnalysis.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.build.tasks.codeanalysis.dll.refresh
+++Microsoft.CodeAnalysis.CSharp.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.codeanalysis.csharp.dll.refresh
+++Microsoft.CodeAnalysis.CSharp.Scripting.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.codeanalysis.csharp.scripting.dll.refresh
+++Microsoft.CodeAnalysis.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.codeanalysis.dll.refresh
+++Microsoft.CodeAnalysis.Scripting.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.codeanalysis.scripting.dll.refresh
+++Microsoft.CodeAnalysis.VisualBasic.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.codeanalysis.visualbasic.dll.refresh
+++Microsoft.DiaSymReader.Native.amd64.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.diasymreader.native.amd64.dll.refresh
+++Microsoft.DiaSymReader.Native.x86.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\microsoft.diasymreader.native.x86.dll.refresh
+++System.AppContext.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.appcontext.dll.refresh
+++System.Collections.Immutable.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.collections.immutable.dll.refresh
+++System.Console.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.console.dll.refresh
+++System.Diagnostics.FileVersionInfo.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.diagnostics.fileversioninfo.dll.refresh
+++System.Diagnostics.StackTrace.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.diagnostics.stacktrace.dll.refresh
+++System.IO.Compression.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.io.compression.dll.refresh
+++System.IO.FileSystem.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.io.filesystem.dll.refresh
+++System.IO.FileSystem.Primitives.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.io.filesystem.primitives.dll.refresh
+++System.IO.Pipes.AccessControl.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.io.pipes.accesscontrol.dll.refresh
+++System.IO.Pipes.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.io.pipes.dll.refresh
+++System.Reflection.Metadata.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.reflection.metadata.dll.refresh
+++System.Security.AccessControl.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.security.accesscontrol.dll.refresh
+++System.Security.Claims.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.security.claims.dll.refresh
+++System.Security.Cryptography.Algorithms.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.security.cryptography.algorithms.dll.refresh
+++System.Security.Cryptography.Encoding.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.security.cryptography.encoding.dll.refresh
+++System.Security.Cryptography.Primitives.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.security.cryptography.primitives.dll.refresh
+++System.Security.Cryptography.X509Certificates.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.security.cryptography.x509certificates.dll.refresh
+++System.Security.Principal.Windows.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.security.principal.windows.dll.refresh
+++System.Text.Encoding.CodePages.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.text.encoding.codepages.dll.refresh
+++System.ValueTuple.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.valuetuple.dll.refresh
+++System.Xml.ReaderWriter.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.xml.readerwriter.dll.refresh
+++System.Xml.XmlDocument.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.xml.xmldocument.dll.refresh
+++System.Xml.XPath.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.xml.xpath.dll.refresh
+++System.Xml.XPath.XDocument.dll.refresh
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\bin\roslyn\system.xml.xpath.xdocument.dll.refresh
+++Default.aspx
+++Default.aspx.cs
+++Admin-InsertThriller.aspx
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\admin-insertthriller.aspx
+++Admin-InsertThriller.aspx.cs
+i:{b6ce20a9-fb0e-4acc-a10c-6053f9d71d3f}:c:\users\danie\documents\nyp infocomm and security\year 2\semester 2\advanced web app dev\practical\lab08_shopping_cart_starter\lab08_shopping_cart_starter\shopping_cart_solution\admin-insertthriller.aspx.cs
